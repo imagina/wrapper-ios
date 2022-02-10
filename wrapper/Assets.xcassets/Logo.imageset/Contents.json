@@ -1,17 +1,17 @@
 {
   "images" : [
     {
-      "filename" : "signo-icono-playstore-1.jpg",
+      "filename" : "icono-1.jpg",
       "idiom" : "universal",
       "scale" : "1x"
     },
     {
-      "filename" : "signo-icono-playstore.jpg",
+      "filename" : "icono.jpg",
       "idiom" : "universal",
       "scale" : "2x"
     },
     {
-      "filename" : "signo-icono-playstore-2.jpg",
+      "filename" : "icono-2.jpg",
       "idiom" : "universal",
       "scale" : "3x"
     }
